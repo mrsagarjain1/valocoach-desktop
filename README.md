@@ -1,6 +1,8 @@
-# ValoCoach Desktop
+# ValoCoach.ai Desktop App
 
-AI-powered Valorant coaching assistant — desktop app for Windows.
+The best Valorant tracker and AI-powered coaching assistant for Windows. ValoCoach.ai helps you improve at Valorant with personalized gameplay analysis, performance tracking, and intelligent coaching insights.
+
+**Keywords:** best valorant tracker, valorant stats tracker, valorant coaching app, valorant performance tracker, AI valorant coach, valorant gameplay analysis, valorant improvement tool
 
 ## Download
 
@@ -21,13 +23,13 @@ Or grab a specific version from the [Releases](https://github.com/mrsagarjain1/v
 3. Follow the setup wizard
 4. Launch ValoCoach from your Start Menu or Desktop shortcut
 
-## About
-
-ValoCoach.ai uses AI to help you improve at Valorant by analyzing your gameplay and providing personalized coaching insights.
+## Features
 
 - 🎯 AI-powered gameplay analysis
-- 📊 Performance tracking and insights
+- 📊 Best Valorant stats tracker and performance insights
 - 🧠 Personalized improvement suggestions
+- 🏆 Track your rank progression and win rate
+- 🔍 Detailed match history and agent performance
 
 ## Links
 
