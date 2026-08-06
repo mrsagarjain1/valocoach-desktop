@@ -35,6 +35,10 @@ Or grab a specific version from the [Releases](https://github.com/mrsagarjain1/v
 
 - [ValoCoach.ai Website](https://valorcoach.ai)
 
+## Disclaimer
+
+ValoCoach.ai is NOT affiliated with Riot Games. VALORANT is a trademark of Riot Games, Inc.
+
 ## License
 
 All rights reserved © ValoCoach.ai
