@@ -1,0 +1,28 @@
+# Executables and installers
+*.exe
+*.msi
+*.dmg
+*.AppImage
+
+# Build output
+dist/
+build/
+out/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Kiro
+.kiro/
