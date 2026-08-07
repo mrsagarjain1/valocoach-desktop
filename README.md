@@ -1,8 +1,10 @@
 # ValoCoach.ai Desktop App
 
-The best Valorant tracker and AI-powered coaching assistant for Windows. ValoCoach.ai helps you improve at Valorant with personalized gameplay analysis, performance tracking, and intelligent coaching insights.
+Become unstoppable. AI coaching that breaks down your gameplay, tracks live matches, and gives you the edge to climb the ranks.
 
-**Keywords:** best valorant tracker, valorant stats tracker, valorant coaching app, valorant performance tracker, AI valorant coach, valorant gameplay analysis, valorant improvement tool
+VALOCOACH.AI turns your match data into a rank-up plan. AI-powered analysis, live tracking, and tools built for competitive tactical shooter players.
+
+**Keywords:** best valorant tracker, valorant stats tracker, valorant coaching app, valorant performance tracker, AI valorant coach, valorant gameplay analysis, valorant improvement tool, valorant live tracker, valorant agent tips
 
 ## Download
 
@@ -25,11 +27,15 @@ Or grab a specific version from the [Releases](https://github.com/mrsagarjain1/v
 
 ## Features
 
-- 🎯 AI-powered gameplay analysis
-- 📊 Best Valorant stats tracker and performance insights
-- 🧠 Personalized improvement suggestions
-- 🏆 Track your rank progression and win rate
-- 🔍 Detailed match history and agent performance
+- 🤖 **Talk to AI Coach:** Open any match and chat with your AI coach for instant, personalized advice.
+- 📊 **AI Match Analysis:** Full performance breakdown after every match. Combat rating, tactical awareness, agent effectiveness, and specific tips to fix your weak spots.
+- 🔴 **Live Match Tracking:** Real-time match data while you play. Auto-instalock your main. Set per-map agent presets so you never fumble agent select.
+- 🛒 **Daily Store:** Check your in-game store and currency balances at a glance, without launching the game.
+- 🔍 **Player Lookup & Analysis:** Search any player across all regions. Check their rank, stats, and career history. Run AI analysis on their gameplay to compare and learn.
+- 🎯 **Agent Tips:** Site-specific lineups, ability setups, and positioning guides for every agent on every map.
+- 🏆 **Rewards:** Complete in-app quests to earn rewards.
+
+**VALOCOACH.AI gives you the edge.**
 
 ## Links
 
@@ -37,7 +43,7 @@ Or grab a specific version from the [Releases](https://github.com/mrsagarjain1/v
 
 ## Disclaimer
 
-ValoCoach.ai is NOT affiliated with Riot Games. VALORANT is a trademark of Riot Games, Inc.
+VALOCOACH.AI is an independent, third-party companion app. It is not affiliated with, endorsed, sponsored, or approved by any game publisher. All game names, trademarks, and content are the property of their respective owners.
 
 ## License
 
