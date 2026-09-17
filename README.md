@@ -20,7 +20,7 @@ Or grab a specific version from the [Releases](https://github.com/mrsagarjain1/v
 
 ## Installation
 
-1. Download `ValoCoach_Setup_1.0.10.exe` from the link above
+1. Download `ValoCoach_Setup_1.1.1.exe` from the link above
 2. Run the installer
 3. Follow the setup wizard
 4. Launch ValoCoach from your Start Menu or Desktop shortcut
